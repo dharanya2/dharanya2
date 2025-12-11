@@ -29,7 +29,7 @@
 
 ---
 
-# ⭐ Special Badges (Enhanced Color Palette)
+# ⭐ Special Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML-5C6BC0?style=for-the-badge&logo=openai">
@@ -50,6 +50,35 @@
 
 ---
 
+## 🚀 Internship Experience Deep Dive (NEW CONTENT)
+
+Gained practical industry experience in both software development and machine learning implementation.
+
+### 1. Full Stack Development Intern (Optimus Technocrates)
+* **Focus:** Front-end and Back-end connectivity.
+* **Key Learnings:** Implemented interactive UI components using **HTML, CSS, and JavaScript**. Mastered fundamental server-side concepts, database connectivity, and the entire full-stack deployment pipeline.
+* **Impact:** Worked on small real-time tasks, improving workflow understanding from design to deployment.
+
+### 2. Machine Learning with Python Intern (Litz Tech)
+* **Focus:** Data science algorithms and implementation.
+* **Key Learnings:** Successfully implemented and evaluated core ML algorithms (**Regression, Classification, Clustering**) using the **Python** ecosystem.
+* **Impact:** Gained 10 days of intensive hands-on experience using libraries like **NumPy, Pandas, Matplotlib, and Scikit-learn** for data preprocessing and model training.
+
+---
+
+## 🎯 Core Competencies: Skill-to-Application Mapping (NEW CONTENT)
+
+Mapping my technical skills to specific domains and applications.
+
+| Skill/Technology | Core Domain | Application in Projects/Work |
+| :--- | :--- | :--- |
+| **Python** / TensorFlow | Machine Learning / AI | Core logic for **Pathwise AI**; Model training for Sentiment Analysis. |
+| **HTML / CSS / JavaScript** | Web Development | Building user interfaces for Automatic Birthday Greetings and **Pathwise AI**. |
+| **SQL** / Database Management | Data Management | Structuring and managing data for user profiles and recommendations (Pathwise AI). |
+| **C / Java / OOPS** | Foundational Programming | Used for competitive programming optimization and peer mentoring/debugging. |
+
+---
+
 # 📂 Featured Projects Showcase
 
 Showcasing my best work in AI/ML and Full-Stack Development.
@@ -67,7 +96,7 @@ Showcasing my best work in AI/ML and Full-Stack Development.
 
 ---
 
-# 🏅 Competitive Programming Scoreboard (Colored Badges)
+# 🏅 Competitive Programming Scoreboard
 
 My commitment to problem-solving and algorithmic efficiency:
 
@@ -81,7 +110,7 @@ My commitment to problem-solving and algorithmic efficiency:
 
 ---
 
-# 🎓 Education & Professional Credentials (Colored Badges)
+# 🎓 Education & Professional Credentials
 
 | Category | Details | Status |
 | :--- | :--- | :--- |
@@ -97,7 +126,7 @@ My commitment to problem-solving and algorithmic efficiency:
 
 ---
 
-# 🗣️ Latest Activity & Contributions (Themed Graph)
+# 🗣️ Latest Activity & Contributions
 
 Keeping track of my most recent work, repositories starred, and issues opened.
 
@@ -107,7 +136,7 @@ Keeping track of my most recent work, repositories starred, and issues opened.
 
 ---
 
-# 📊 GitHub Stats (Themed Stats)
+# 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MDharanya&show_icons=true&theme=radical&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDharanya&layout=compact&theme=radical&hide_border=true" height="165">
@@ -115,7 +144,7 @@ Keeping track of my most recent work, repositories starred, and issues opened.
 
 ---
 
-# ⚡ GitHub Contributions & Streaks (Themed Calendar)
+# ⚡ GitHub Contributions & Streaks
 <p align="center">
     <img src="https://github-readme-streak-calendar.herokuapp.com?user=MDharanya&theme=date_night&background=151a2e" width="450"/>
 </p>
@@ -132,7 +161,7 @@ Keeping track of my most recent work, repositories starred, and issues opened.
 
 ---
 
-# 🌐 Connect and Collaborate (Colored Badges)
+# 🌐 Connect and Collaborate
 Let's build something intelligent together!
 
 <p align="center">
