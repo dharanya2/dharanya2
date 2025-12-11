@@ -1,85 +1,49 @@
-
-
- <!-- Waving Banner -->
+<!-- Clean Wave Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Dharanya%20M&fontSize=60&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Dharanya%20M&fontSize=50&color=gradient" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+DS+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Tech+Explorer+%F0%9F%9A%80">
-</p>
+## 👋 Hello World!
+I'm **Dharanya M**, an AI & DS student who loves building smart solutions, clean web apps, and exploring ML models.
 
 ---
 
-# 💫 About Me  
-🔥 Passionate about **AI, ML, and Full Stack Development**  
-🎯 I build creative projects & solve challenging problems  
-⚡ I love exploring intelligent systems  
-🧠 My goal: *Create impactful tech that matters*
-
----
-
-# ⚙️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,github,tensorflow,c,linux&theme=dark" />
+## 🚀 Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,github,tensorflow&theme=light" />
 </p>
 
 ---
 
-# 🎵 Now Playing  
+## 📊 GitHub Stats (Simple & Clean)
+
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MDharanya&show_icons=true&theme=swift&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDharanya&layout=compact&theme=swift&hide_border=true" />
 </p>
 
 ---
 
-# 📊 GitHub Stats  
+## 🔥 Streak  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDharanya&show_icons=true&theme=radical&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDharanya&layout=compact&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDharanya&theme=swift&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MDharanya&theme=tokyonight&hide_border=true"/>
-</p>
+## ✨ Minimal Quote  
+> *"Code. Learn. Improve. Repeat."*
 
 ---
 
-# 🏆 Achievements  
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MDharanya&theme=radical&no-frame=true&row=1&column=6"/>
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="40"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="40"></a>
 </p>
 
----
-
-# 🐍 Contribution Snake  
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://github.com/MDharanya/MDharanya/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# ✨ Quote  
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=churchill&font=Redressed&quote=Every+line+of+code+is+an+opportunity+to+create+magic." />
-</p>
-
----
-
-# 🌐 Connect  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="50">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50">
-</p>
-
----
-
-<p align="center"><b>⭐ If you like my profile, consider giving a star to my projects!</b></p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 </p>
