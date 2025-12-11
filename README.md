@@ -1,140 +1,141 @@
-# ✨ Dharanya M — Portfolio
 
-### 🚀 B.Tech AI & Data Science | Full-Stack Developer | ML Enthusiast
-
-📍 Coimbatore  
-📧 **kit27.ad12@gmail.com**  
-📱 **93455 49121**  
-🔗 **GitHub:** [MDharanya](https://github.com/MDharanya)  
-🔗 **LinkedIn:** *(Add your link here)*  
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6AF1&center=true&vCenter=true&width=800&lines=Hello+%F0%9F%91%8B+I'm+Dharanya+M;AI+%26+DS+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Welcome+to+My+GitHub+Profile!" />
+</p>
 
 ---
 
-## 🔥 About Me
-I am a pre-final year **AI & DS student** passionate about full-stack development, machine learning, and competitive programming. I enjoy building real-world applications, training ML models, and helping others improve their coding skills.
+# 👩‍💻 About Me  
+🎓 Pre-final year **AI & DS student** passionate about building intelligent systems, web applications and solving complex real-world problems.  
+🔥 I enjoy AI research, full-stack development, and deep learning experiments.  
+🏆 Strong background in **competitive programming** and hands-on ML projects.
 
 ---
 
-## 🎓 Education
-**Kalaignar Karunanidhi Institute of Technology (2023–2027)**  
-**B.Tech – Artificial Intelligence & Data Science**  
-📊 **CGPA:** 7.96 / 10  
+# ✨ Tech Stack
 
-**Coursework:**  
-Computer Networks, Operating Systems, DBMS, Web Technologies, Java, C, Python Programming
+## 🚀 Languages & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,cpp" />
+</p>
 
----
-
-## 💼 Experience
-
-### 🔹 Full Stack Development Intern — Optimus Technocrates (India) Pvt. Ltd., Salem
-- Built responsive and interactive web pages using **HTML, CSS, JavaScript**
-- Learned backend fundamentals, server-side concepts & databases  
-- Worked on real-time full-stack tasks from UI design to deployment  
-
-### 🔹 Machine Learning Intern — Litz Tech, Coimbatore
-- Implemented ML algorithms: Regression, Classification, Clustering  
-- Hands-on experience with **NumPy, Pandas, Matplotlib, Scikit-Learn**  
-- Worked on data preprocessing, model training & evaluation  
+## 🛠 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,git,linux,aws,mysql,vscode,py" />
+</p>
 
 ---
 
-## 🧪 Projects
-
-### 🎉 Automatic Birthday Greetings Website  
-**Tech:** HTML, CSS, JavaScript  
-- Add & manage birthday records  
-- Auto-generates greeting messages based on stored dates  
-
-### 🎬 Movie Review Sentiment Analysis  
-**Tech:** Python, TensorFlow/Keras, NLP, LSTM  
-- Built LSTM model to classify positive/negative reviews  
-- Performed NLP preprocessing: tokenization, padding, text cleaning  
-
-### 🧭 Pathwise AI – Career & Academic Recommendation System  
-- AI-based platform recommending personalized career paths  
-- Uses data-driven analytics & ML models  
+# 🧑‍🎓 Education  
+**Kalaignar Karunanidhi Institute of Technology**  
+📅 *2023–2027*  
+🎓 **B.Tech in Artificial Intelligence & Data Science**  
+📊 CGPA: **7.96 / 10**
 
 ---
 
-## 🛠️ Technical Skills
+# 💼 Experience  
 
-| Category | Skills |
-|---------|--------|
-| **Languages** | C, Java, Python, JavaScript |
-| **Web Development** | HTML, CSS |
-| **Database** | SQL |
-| **Tools** | GitHub |
-| **Core Concepts** | OOPS, DBMS, OS |
-| **ML Tools** | NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow |
+## 🔹 Full Stack Intern — Optimus Technocrates  
+- Developed responsive UIs with **HTML, CSS, JavaScript**  
+- Learned backend basics, servers & database integration  
+- Built real-time mini full-stack applications  
 
----
-
-## 🧑‍💻 Competitive Programming
-
-### **LeetCode**
-- 200+ problems solved  
-- Global Rank: **276131**  
-- Top **35.11%**
-
-### **CodeChef**
-- 900+ problems solved  
-- Highest Rating: **1300**  
-- Global Rank: **69353**  
-- Country Rank: **64998**
+## 🔹 Machine Learning Intern — Litz Tech  
+- Worked on **regression, classification, clustering** models  
+- Used **NumPy, Pandas, Matplotlib, Scikit-Learn**  
+- Completed hands-on ML tasks & model evaluations  
 
 ---
 
-## 🏅 Certifications
+# 🚀 Featured Projects
 
-- AWS — **Certified Cloud Practitioner**  
-- CISCO — **Networking Essentials**  
-- Infosys Springboard — **Python Foundation Certification**  
-- Coursera — **Foundations of Data Science**  
-- Altair — **Machine Learning Master Certification**
+## 🎉 Automatic Birthday Greetings Website  
+⭐ HTML + CSS + JS  
+✔ Store birthdays  
+✔ Auto-generate wishes  
+✔ Simple, interactive UI  
 
----
+## 🎬 Movie Review Sentiment Analysis  
+⭐ Python + TensorFlow/Keras + LSTM  
+✔ NLP preprocessing  
+✔ Predict positive/negative sentiment  
 
-## 🏆 Achievements
-- Completed full-stack & ML internships  
-- Built AI-based recommendation platform & NLP LSTM model  
-- Developed automated birthday greeting web app  
-- Solved 1100+ competitive programming problems  
-
----
-
-## 🤝 Volunteering
-- Mentored juniors in **Python & Java**, helping them debug code and improve problem-solving skills  
+## 🧭 Pathwise AI – Career Recommendation System  
+⭐ AI-powered personalized academic & career path suggestions  
+✔ ML-based decision model  
+✔ User-friendly interface  
 
 ---
 
-# 🌟 GitHub Profile Highlights
+# 🏆 Competitive Programming
 
-## 📊 GitHub Stats
-![Dharanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDharanya&show_icons=true&theme=radical)
+### 🟣 **LeetCode**
+- ➤ **200+ problems solved**  
+- ➤ **Global Rank: 276131**  
+- ➤ Top **35.11%**
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MDharanya&theme=radical)
-
-## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDharanya&layout=compact&theme=radical)
+### 🟠 **CodeChef**
+- ➤ **900+ problems solved**  
+- ➤ **Rating: 1300**  
+- ➤ Global Rank: **69353**  
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*  
-## Hi there 👋
+# 📜 Certifications  
+🎖 AWS — Cloud Practitioner  
+🎖 Cisco — Networking Essentials  
+🎖 Infosys — Python Foundation  
+🎖 Coursera — Data Science  
+🎖 Altair — ML Master Certification  
 
-<!--
-**dharanya2/dharanya2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🤝 Volunteering  
+💡 Mentored juniors in **Python & Java debugging**, logic building, and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 📌 Dynamic GitHub Stats
+
+## 🎯 Profile Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MDharanya&show_icons=true&theme=tokyonight" />
+</p>
+
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MDharanya&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDharanya&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📉 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDharanya&theme=tokyo-night" />
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MDharanya&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+# 🌐 Socials (Add Your Links)
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48"></a>
+</p>
+
+---
+
+# ⭐ If you like my work, give a ⭐ to my repositories!
