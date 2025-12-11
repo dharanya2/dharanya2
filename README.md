@@ -1,3 +1,6 @@
+
+
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Dharanya%20M&fontSize=60&fontAlignY=38"/>
 </p>
@@ -19,6 +22,11 @@
 🧠 My goal: *Create impactful tech that matters*
 > Currently in my Pre-Final year of B.Tech AI&DS, blending strong theoretical knowledge with hands-on development experience.
 
+### 🔭 Currently Focused On:
+* Developing an **Optimized Recommendation Algorithm** for the Pathwise AI project.
+* Deepening skills in **Advanced Data Structures and Algorithms** for competitive programming.
+* Learning **ReactJS** to enhance front-end development capabilities.
+
 ---
 
 # ⭐ Special Badges
@@ -27,6 +35,8 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/Loves%20To-Code-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Open%20To-Projects-success?style=for-the-badge">
+  <img src="https://img.shields.io/github/discussions/MDharanya/MDharanya?label=Discussions&color=brightgreen&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues-closed-raw/MDharanya/MDharanya?label=Issues%20Closed&color=red&style=for-the-badge">
 </p>
 
 ---
@@ -46,9 +56,9 @@ Showcasing my best work in AI/ML and Full-Stack Development.
 
 | Project Name | Stack Highlights | Key Achievement |
 | :--- | :--- | :--- |
-| **Pathwise AI - Career Guidance** | Python, ML, SQL, HTML/CSS/JS | Developed an AI platform for **personalized career recommendations** and skill gap analysis. |
-| **Movie Review Sentiment Analysis** | **TensorFlow/Keras**, NLP, LSTM | Trained an **LSTM-based deep learning model** to classify reviews with high accuracy. |
-| **Automatic Birthday Greetings** | HTML, CSS, JavaScript | Built a user-friendly web app with automated greeting message generation. |
+| **[Pathwise AI - Career Guidance](#[Your-Repo-Link])** | Python, ML, SQL, HTML/CSS/JS | Developed an AI platform for **personalized career recommendations** and skill gap analysis. |
+| **[Movie Review Sentiment Analysis](#[Your-Repo-Link])** | **TensorFlow/Keras**, NLP, LSTM | Trained an **LSTM-based deep learning model** to classify reviews with high accuracy. |
+| **[Automatic Birthday Greetings](#[Your-Repo-Link])** | HTML, CSS, JavaScript | Built a user-friendly web app with automated greeting message generation. |
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDharanya&repo=Pathwise-AI-Guidance&theme=radical&hide_border=true&title_color=3399FF" />
@@ -83,6 +93,16 @@ My commitment to problem-solving and algorithmic efficiency:
 <p align="center">
     <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/CISCO-Networking%20Essentials-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
+</p>
+
+---
+
+# 🗣️ Latest Activity & Contributions
+
+Keeping track of my most recent work, repositories starred, and issues opened.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDharanya&theme=react&hide_border=true&title_color=3399FF&line=3399FF&point=FF9900" />
 </p>
 
 ---
