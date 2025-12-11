@@ -1,129 +1,78 @@
-<!-- Waving Banner -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Dharanya%20M&fontSize=60&fontAlignY=38"/>
-</p>
+# 🌟 Pathwise AI - Navigate Your Future with Intelligence
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+DS+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Tech+Explorer+%F0%9F%9A%80">
-</p>
+> **Leveraging AI to transform career guidance: A personalized recommendation engine built on data-driven analytics.**
+---
+
+## 🚀 Key Features and Enhancements
+
+This platform goes beyond basic path recommendations, integrating advanced analysis and user interaction:
+
+* **📈 Predictive Performance Modeling:** Uses classification models to predict the likelihood of user success in specific academic courses or certification exams based on their current profile and skill scores.
+* **🧩 Skill Gap Identification (NEW):** Analyzes the skills required for a target job role and compares them against the user's current skillset (**C, Python, Java, SQL, etc.**), providing a prioritized learning roadmap.
+* **🔄 Iterative Profile Refinement:** The system learns from user feedback (e.g., "Was this recommendation useful?") to continually refine the underlying model weights, improving accuracy over time.
+* **🌍 Global Rank Benchmarking (Link to CP):** Integrates competitive programming metrics (like your **CodeChef Rating** and **LeetCode Rank**) to provide a quantified benchmark of problem-solving ability against peers, especially for technical roles.
+* **🌐 RESTful API Integration:** Designed the back-end to expose recommendation logic via a clean RESTful API, enabling potential future mobile app integration or third-party usage.
+
+
 
 ---
 
-<!-- Gradient Divider -->
-<p align="center">
-<img src="https://github.com/kyechan99/capsule-render/blob/master/media/orange.png?raw=true" width="700"/>
-</p>
+## ⚙️ Technical Architecture
 
-# 💫 About Me  
-🔥 Passionate about **AI, ML, and Full Stack Development**  
-🎯 I build creative projects & solve challenging problems  
-⚡ I love exploring intelligent systems  
-🧠 My goal: *Create impactful tech that matters*  
+The project follows a standard three-tier architecture with a specialized focus on the ML/AI layer.
 
----
+### 1. Presentation Layer (Frontend)
+* **Stack:** **HTML5, CSS3, JavaScript**
+* **Role:** User profile creation, recommendation display, and interactive feedback forms.
 
-# ⭐ Special Badges (New)
+### 2. Application Layer (Backend & Core Logic)
+* **Stack:** **Python** (for core logic and ML deployment)
+* **Data Models:** Classification/Clustering algorithms (trained using **Scikit-learn** or **TensorFlow/Keras** for expansion).
+* **API:** Developed custom API endpoints for data exchange between the frontend and the ML model.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Loves%20To-Code-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20To-Projects-success?style=for-the-badge">
-</p>
+### 3. Data Layer
+* **Stack:** **SQL** (Database Management System)
+* **Schema:** Manages user data, skill inventories, job market data, and historical recommendation logs.
 
 ---
 
-# ⚙️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,github,tensorflow,c,linux&theme=dark" />
-</p>
+## 💻 Code & Implementation Highlights
+
+### A. Machine Learning Pipeline (Python)
+
+The core logic involves training the recommendation model.
+
+> **Data Preprocessing & NLP (Initial Step):**
+> * Cleaning and normalizing input data (interests, historical scores) using **Pandas** and **NumPy**.
+> * Using basic NLP techniques for feature extraction from text-based interests.
+
+### B. Competitive Programming Integration
+
+My high volume of solved problems on CodeChef (**900+**) and LeetCode (**200+**) demonstrates a strong foundation in data structures, algorithms, and efficient problem-solving, which directly supports the development of complex, optimized AI models.
+
+| Platform | Solved Problems | Rating/Rank Highlight |
+| :--- | :--- | :--- |
+| **CodeChef** | 900+ | Highest Rating: 1300 (Global Rank: 69353) |
+| **LeetCode** | 200+ | Global Rank: 276131 (Top 35.11%) |
 
 ---
 
-# ✨ Animated Profile Card  
-<p align="center">
-  <img src="https://i.imgur.com/hZ6RW5X.gif" width="550" />
-</p>
+## 🎓 Academic & Professional Foundation
+
+My approach to this project is grounded in my coursework and practical experience:
+
+* **B.Tech AI&DS Coursework:** Applied concepts from **Database Management Systems (SQL)**, **Computer Networks**, and **Operating Systems** to ensure the platform is robust and scalable.
+* **Full-Stack Internship:** The skills gained during my **Full Stack Development Internship** (HTML, CSS, JavaScript) were crucial in building the interactive and user-friendly interface.
+* **ML Internship:** The hands-on experience in implementing algorithms (Regression, Classification, Clustering) using **NumPy** and **Scikit-learn** provided the basis for the recommendation engine.
 
 ---
 
-# 🎵 Now Playing  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" />
-</p>
+## 🌟 Connect & Review
 
----
+I welcome feedback and discussion on AI/ML architectures, competitive coding strategies, or my career path.
 
-# 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDharanya&show_icons=true&theme=radical&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDharanya&layout=compact&theme=radical&hide_border=true" height="165">
-</p>
-
----
-
-# ⚡ GitHub Contributions Calendar  
-<p align="center">
-<img src="https://github-readme-streak-calendar.herokuapp.com?user=MDharanya&theme=dark" width="600"/>
-</p>
-
----
-
-# 🔥 Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MDharanya&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Achievements  
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MDharanya&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/MDharanya/MDharanya/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# ✨ Quote  
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=churchill&font=Redressed&quote=Every+line+of+code+is+an+opportunity+to+create+magic." />
-</p>
-
----
-
-# ✨ Animated Social Buttons (New)
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
-</p>
-
----
-
-# 🌐 Connect  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="50">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50">
-</p>
-
----
-
-# 🎯 Visitor Counter (New)
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MDharanya&label=Profile%20Views&color=blueviolet&style=flat-square" />
-</p>
-
----
-
-<p align="center"><b>⭐ If you like my profile, consider giving a star to my projects!</b></p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+| Contact Method | Details |
+| :--- | :--- |
+| **GitHub** | [dharanya2](https://github.com/dharanya2) |
+| **LinkedIn** | MDharanya (Please provide your actual link!) |
+| **Email** | kit27.ad12@gmall.com |
