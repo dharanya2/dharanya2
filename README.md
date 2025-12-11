@@ -2,11 +2,11 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Dharanya%20M&fontSize=60&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Dharanya%20M&fontSize=60&fontAlignY=38&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+DS+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Tech+Explorer+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFC107&center=true&vCenter=true&width=700&lines=AI+%26+DS+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Tech+Explorer+%F0%9F%9A%80">
 </p>
 
 ---
@@ -29,14 +29,14 @@
 
 ---
 
-# ⭐ Special Badges
+# ⭐ Special Badges (Enhanced Color Palette)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Loves%20To-Code-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20To-Projects-success?style=for-the-badge">
-  <img src="https://img.shields.io/github/discussions/MDharanya/MDharanya?label=Discussions&color=brightgreen&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues-closed-raw/MDharanya/MDharanya?label=Issues%20Closed&color=red&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML-5C6BC0?style=for-the-badge&logo=openai">
+  <img src="https://img.shields.io/badge/Loves%20To-Code-FF9800?style=for-the-badge&logo=hackerrank">
+  <img src="https://img.shields.io/badge/Open%20To-Projects-4CAF50?style=for-the-badge&logo=visualstudiocode">
+  <img src="https://img.shields.io/github/discussions/MDharanya/MDharanya?label=Discussions&color=00BCD4&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues-closed-raw/MDharanya/MDharanya?label=Issues%20Closed&color=E53935&style=for-the-badge">
 </p>
 
 ---
@@ -61,27 +61,27 @@ Showcasing my best work in AI/ML and Full-Stack Development.
 | **[Automatic Birthday Greetings](#[Your-Repo-Link])** | HTML, CSS, JavaScript | Built a user-friendly web app with automated greeting message generation. |
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDharanya&repo=Pathwise-AI-Guidance&theme=radical&hide_border=true&title_color=3399FF" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDharanya&repo=Movie-Review-Sentiment-Analysis&theme=radical&hide_border=true&title_color=3399FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDharanya&repo=Pathwise-AI-Guidance&theme=radical&hide_border=true&title_color=E91E63" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MDharanya&repo=Movie-Review-Sentiment-Analysis&theme=radical&hide_border=true&title_color=E91E63" />
 </p>
 
 ---
 
-# 🏅 Competitive Programming Scoreboard
+# 🏅 Competitive Programming Scoreboard (Colored Badges)
 
 My commitment to problem-solving and algorithmic efficiency:
 
 <p align="center">
-    <img src="https://img.shields.io/badge/CodeChef-900%2B%20Problems%20Solved-blue?style=for-the-badge&logo=codechef&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/CodeChef-900%2B%20Problems%20Solved-6D4C41?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
     <br>
-    <img src="https://img.shields.io/badge/Highest%20Rating-1300%20(CodeChef)-green?style=flat&logo=codechef"/>
-    <img src="https://img.shields.io/badge/Global%20Rank-Top%2035%25%20(LeetCode)-red?style=flat&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/Highest%20Rating-1300%20(CodeChef)-8BC34A?style=flat&logo=codechef"/>
+    <img src="https://img.shields.io/badge/Global%20Rank-Top%2035%25%20(LeetCode)-F44336?style=flat&logo=leetcode"/>
 </p>
 
 ---
 
-# 🎓 Education & Professional Credentials
+# 🎓 Education & Professional Credentials (Colored Badges)
 
 | Category | Details | Status |
 | :--- | :--- | :--- |
@@ -97,17 +97,17 @@ My commitment to problem-solving and algorithmic efficiency:
 
 ---
 
-# 🗣️ Latest Activity & Contributions
+# 🗣️ Latest Activity & Contributions (Themed Graph)
 
 Keeping track of my most recent work, repositories starred, and issues opened.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDharanya&theme=react&hide_border=true&title_color=3399FF&line=3399FF&point=FF9900" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDharanya&theme=gothic&hide_border=true&title_color=F44336&line=673AB7&point=FFC107" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats (Themed Stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MDharanya&show_icons=true&theme=radical&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDharanya&layout=compact&theme=radical&hide_border=true" height="165">
@@ -115,9 +115,9 @@ Keeping track of my most recent work, repositories starred, and issues opened.
 
 ---
 
-# ⚡ GitHub Contributions & Streaks
+# ⚡ GitHub Contributions & Streaks (Themed Calendar)
 <p align="center">
-    <img src="https://github-readme-streak-calendar.herokuapp.com?user=MDharanya&theme=dark&background=151a2e" width="450"/>
+    <img src="https://github-readme-streak-calendar.herokuapp.com?user=MDharanya&theme=date_night&background=151a2e" width="450"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MDharanya&theme=tokyonight&hide_border=true"/>
@@ -132,7 +132,7 @@ Keeping track of my most recent work, repositories starred, and issues opened.
 
 ---
 
-# 🌐 Connect and Collaborate
+# 🌐 Connect and Collaborate (Colored Badges)
 Let's build something intelligent together!
 
 <p align="center">
@@ -147,7 +147,7 @@ Let's build something intelligent together!
 
 # 🎯 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MDharanya&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MDharanya&label=Profile%20Views&color=5C6BC0&style=flat-square" />
 </p>
 
 ---
